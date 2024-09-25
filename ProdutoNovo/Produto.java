@@ -81,5 +81,3 @@ public class Produto {
         System.out.println("Preço de venda: " + cadastroProd.getPrecoVenda());
     }
 }
-
-}
